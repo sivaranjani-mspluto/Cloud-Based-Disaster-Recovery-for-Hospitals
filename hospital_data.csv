@@ -1,0 +1,6 @@
+hospital_id,hospital_name,location,beds_available,backup_status,last_backup,recovery_time_objective,recovery_point_objective,data_volume_gb
+H001,City General,Urban,250,Active,2025-10-30 23:45:00,4,1,1250.5
+H002,Rural Care,Rural,80,Inactive,2025-10-29 12:30:00,8,4,320.2
+H003,Metro Health,Urban,500,Active,2025-10-31 01:15:00,2,0.5,2800.0
+H004,Suburban Medical,Suburban,150,Active,2025-10-30 22:00:00,6,2,780.7
+H005,Coastal Hospital,Coastal,300,Inactive,2025-10-28 18:45:00,12,6,1500.3
